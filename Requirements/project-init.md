@@ -166,6 +166,8 @@ this is a c# .net 8 REST API project.
             4. Delete Organisation
             5. View Organisation
             6. use the braingain.api rest API create, read, update and delete the organisations.
+            7. add a teacher to the organisation.
+            8. add a student to the organisation.
         3. Students
             1. List of Students
             2. Add Student
@@ -187,11 +189,8 @@ this is a c# .net 8 REST API project.
             4. Delete Learning Path
             5. View Learning Path
             6. use the braingain.api rest API create, read, update and delete the learning paths.
-        6. Assessments
-            1. List of Assessments
-            2. Add Assessment
-            3. Edit Assessment
-            4. Delete Assessment
-            5. View Assessment
-            6. use the braingain.api rest API create, read, update and delete the assessments.
+            7. add learning path to the organisation.
+            8. add a student to the learning path.
+            9. add a teacher to the learning path.
+
     
